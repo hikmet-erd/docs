@@ -101,7 +101,7 @@ Follow the steps below:
 
         1. Set the **Title** to *Attach File*.
         2. Set the **Layout** to *PopupLayout*.
-        3. The **Pre-fill page contents based on the Document entity** option is on, so the page template (Forms) is selected automatically for you. Choose **Form Vertical** and click **Create**.
+        3. The **Autofill contents** option is on, so the page template (Forms) is selected automatically for you. Choose **Form Vertical** and click **Create**.
 
             {{< figure src="/attachments/studio-how-to/pages/pages-how-to-attach-files/create-attach-file-page.png"   width="500"  >}}
 
