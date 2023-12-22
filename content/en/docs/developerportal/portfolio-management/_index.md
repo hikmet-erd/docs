@@ -277,7 +277,7 @@ Each initiative card shows the following information:
     * **Intake** – This shows the date when the initiative is accepted based on business requirements.
     * **Start** – This shows the date when the first actions are taken to start implementation.
     * **Go-Live** – This shows the date when the app is expected to be up and running.
-* ⑥ Icon of the linked app – Clicking this shows the information about the Mendix app that is linked with the initiative.
+* ⑥ Icon of the linked app(s) – Clicking this shows the information about the linked Mendix app when there is only 1 linked app, otherwise multiple linked apps icon is shown.
 * ⑦ Avatar of the initiative owner – Hovering over the avatar shows the name of the initiative owner.
 
 #### 3.2.2 List View {#list-view}
@@ -297,7 +297,7 @@ The list contains the following information:
 * **Intake Date** – This shows the date when the initiative is accepted based on business requirements.
 * **Start Date** – This shows the date when the first actions are taken to start implementation.
 * **Go-Live Date** – This shows the date when the app is expected to be up and running.
-* Icon of the linked app – Clicking this shows the information about the Mendix app that is linked with the initiative.
+* Icon of the linked app(s) – Clicking this shows the information about the linked Mendix app when there is only 1 linked app, otherwise multiple linked apps icon is shown.
 * Avatar of the initiative owner – Hovering over the avatar shows the name of the initiative owner.
 * Ellipsis button (**...**) – Clicking this button opens a menu that enables you to [edit](#edit-delete-initiative), [archive](#archive-initiative), or [delete](#edit-delete-initiative) the initiative.
   
@@ -325,7 +325,7 @@ The list contains the following information:
     * **Intake** – This is the date when the initiative is accepted based on business requirements.
     * **Start** – This is the date when the first actions are taken to start implementation.
     * **Go-Live** – This is the date when the app is expected to be up and running.
-* Icon of the linked app – Clicking this shows the information about the Mendix app that is linked with the initiative.
+* Icon of the linked app(s) – Clicking this shows the information about the linked Mendix app when there is only 1 linked app, otherwise multiple linked apps icon is shown.
 * Avatar of the initiative owner – Hovering over the avatar shows the name of the initiative owner.
 * Ellipsis button (**...**) – Clicking this button opens a menu that enables you to [edit](#edit-delete-initiative), [archive](#archive-initiative), or [delete](#edit-delete-initiative) the initiative.
   
@@ -353,7 +353,7 @@ The list contains the following information:
     * **Intake** – This is the date when the initiative is accepted based on business requirements.
     * **Start** – This is the date when the first actions are taken to start implementation.
     * **Go-Live** – This is the date when the app is expected to be up and running.
-* Icon of the linked app – Clicking this shows the information about the Mendix app that is linked with the initiative.
+* Icon of the linked app(s) – Clicking this shows the information about the linked Mendix app when there is only 1 linked app, otherwise multiple linked apps icon is shown.
 * Avatar of the initiative owner – Hovering over the avatar shows the name of the initiative owner.
 * Ellipsis button (**...**) – Clicking this button opens a menu that enables you to [edit](#edit-delete-initiative), [archive](#archive-initiative), or [delete](#edit-delete-initiative) the initiative.
   
